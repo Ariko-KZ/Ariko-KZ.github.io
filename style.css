@@ -2,5 +2,6 @@ body {
 background: #ccc;
 }
 img {
-width: 100%;
+width: 33%;
+  margin: auto;
 }
